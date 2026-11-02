@@ -1,0 +1,16 @@
+# Collected content and runtime state
+data/
+logs/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+*cookies*.json
+*cookie*.txt
+*profile*/
+.pytest_cache/
+.idea/
+.vscode/
